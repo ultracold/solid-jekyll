@@ -5,7 +5,7 @@ date:   2016-06-03 16:54:47
 author: ultracold
 categories:
 - project
-img: portfolio_02.jpg
+img: social-network.png
 carousel:
 - single01.jpg
 - single02.jpg
