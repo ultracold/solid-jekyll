@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "noGlu: Content Management with Social Interaction"
+date:   2016-06-04 16:54:46
+author: ultracold
+categories:
+- project
+img: portfolio_03.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+client: ultracold
+website: http://ultracold.github.io/ultracoldprojects
+---
+####noGlu
+Description
+
+####Our Proposal
+What we did.
