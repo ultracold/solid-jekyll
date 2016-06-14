@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "NoGlu: CMS with Social Interaction (Java)"
+title:  "NoGlu: Social Content Management (Java)"
 date:   2016-06-04 16:54:46
 author: ultracold
 categories:
