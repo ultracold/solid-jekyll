@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "noGlu: Content Management with Social Interaction"
+title:  "NoGlu: CMS with Social Interaction (Java)"
 date:   2016-06-04 16:54:46
 author: ultracold
 categories:
@@ -14,8 +14,10 @@ carousel:
 client: ultracold
 website: http://ultracold.github.io/ultracoldprojects
 ---
-####noGlu
-Description
+NoGlu
+A content management system with social interaction.
 
-####Our Proposal
-What we did.
+Specs
+NoGlu is built using Java within a Spring framework.
+Test-driven development.
+S.O.L.I.D., 4 PILLARS, clean code.
