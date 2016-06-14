@@ -14,10 +14,8 @@ carousel:
 client: ultracold
 website: http://ultracold.github.io/ultracoldprojects
 ---
-NoGlu
-A content management system with social interaction.
+PROJECT NAME: NoGlu
+DESCRIPTION: A web-based content management system with social interaction.
+DEVELOPMENT METHODOLOGY: Test-driven development, S.O.L.I.D., 4 PILLARS, clean code.
+SPECS: Built using Java within a Spring framework.
 
-Specs
-NoGlu is built using Java within a Spring framework.
-Test-driven development.
-S.O.L.I.D., 4 PILLARS, clean code.
