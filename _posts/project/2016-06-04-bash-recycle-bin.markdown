@@ -5,7 +5,7 @@ date:   2016-06-04 16:54:46
 author: ultracold
 categories:
 - project
-img: portfolio_04.jpg
+img: bashrecyclebin.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
