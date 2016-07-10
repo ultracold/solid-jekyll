@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "NoGlu: Social Content Management (Java)"
+title:  "Social Content Management"
 date:   2016-06-04 16:54:46
 author: ultracold
 categories:
@@ -20,5 +20,5 @@ DESCRIPTION: A web-based content management system with social interaction.
 
 DEVELOPMENT METHODOLOGY: Test-driven development, S.O.L.I.D., 4 PILLARS, clean code.
 
-SPECS: Built using Java within a Spring framework.
+SPECS: Built using Java within a Spring framework: JUnit, Mockito, Maven, log4j, vendor-agnostic data access layers using JDBC and JPA with Hibernate, JSTL and EL, Apache HTTP Server.
 
